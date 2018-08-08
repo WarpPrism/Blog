@@ -10,6 +10,7 @@
 
 ## 目录
 
+### 大学
 - [关于图像处理中的插值算法（Matlab语言描述）](https://github.com/WarpPrism/Blog/issues/1)
 - [JavaScript Prototype And Oop 学习JS原型链](https://github.com/WarpPrism/Blog/issues/2)
 - [CSS3 Flex](https://github.com/WarpPrism/Blog/issues/3)
@@ -43,3 +44,5 @@
 - [svg系列：2. svg path实现图片路径动画](https://github.com/WarpPrism/Blog/issues/35)
 - [svg系列：1.svg基础知识 & 不一样的svg动画世界](https://github.com/WarpPrism/Blog/issues/36)
 - [前端项目gitlab CI（持续集成）实践](https://github.com/WarpPrism/Blog/issues/38)
+- [WPS前端监控模块说明文档](https://github.com/WarpPrism/Blog/issues/39)
+
